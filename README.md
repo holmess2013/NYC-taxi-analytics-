@@ -5,7 +5,7 @@ _Currently ongoing — starting with SQL queries, expanding into Python EDA and 
 
 ## Data
 
-This project uses public data from the [NYC Taxi & Limousine Commission (TLC)](https://www.nyc.gov/assets/tlc/pages/about/tlc-trip-record-data) Open Data portal.
+This project uses public data from the [NYC Taxi & Limousine Commission (TLC)](https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page) Open Data portal.
 
 - **Trip records**: Yellow taxi trip data (January 2023), available in Parquet format:  
   [yellow_tripdata_2023-01.parquet](https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-01.parquet)
